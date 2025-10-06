@@ -10,7 +10,7 @@
   "keywords": ["node", "petshop", "prisma"],
   "author": "Julia Degrava",
   "license": "MIT",
-  "description": "",
+  "description": "Atividade de Back End de Petshop com conexão com o banco de dados.",
   "dependencies": {
     "@prisma/client": "^6.16.3",
     "dotenv": "^17.2.3",
